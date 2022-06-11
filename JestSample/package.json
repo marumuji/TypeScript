@@ -1,0 +1,19 @@
+{
+  "name": "jestsample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jest.config.js",
+  "dependencies": {
+    "jest": "^28.1.1",
+    "ts-jest": "^28.0.4"
+  },
+  "devDependencies": {
+    "@types/jest": "^28.1.1",
+    "typescript": "^4.7.3"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
